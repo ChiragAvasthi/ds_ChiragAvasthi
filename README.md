@@ -58,14 +58,6 @@ This analysis uses Jupyter Notebooks for exploratory data analysis, statistical 
 
 The analysis provides actionable insights for traders interested in sentiment-based trading strategies, risk managers evaluating trader behavior, and researchers studying market psychology.
 
-## License
 
-[Specify your preferred license]
-
-## Contact
-
-For questions or discussions about this analysis, please open an issue or contact the repository maintainer.
-
----
 
 **Disclaimer:** This analysis is for educational and research purposes. Past performance does not guarantee future results. Trading involves substantial risk of loss.
